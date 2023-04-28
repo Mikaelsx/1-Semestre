@@ -1,0 +1,15 @@
+C:\Users\51915337801\Desktop\Código de barras\bin\Debug\net7.0\Código de barras.exe
+C:\Users\51915337801\Desktop\Código de barras\bin\Debug\net7.0\Código de barras.deps.json
+C:\Users\51915337801\Desktop\Código de barras\bin\Debug\net7.0\Código de barras.runtimeconfig.json
+C:\Users\51915337801\Desktop\Código de barras\bin\Debug\net7.0\Código de barras.dll
+C:\Users\51915337801\Desktop\Código de barras\bin\Debug\net7.0\Código de barras.pdb
+C:\Users\51915337801\Desktop\Código de barras\obj\Debug\net7.0\Código de barras.csproj.AssemblyReference.cache
+C:\Users\51915337801\Desktop\Código de barras\obj\Debug\net7.0\Código de barras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51915337801\Desktop\Código de barras\obj\Debug\net7.0\Código de barras.AssemblyInfoInputs.cache
+C:\Users\51915337801\Desktop\Código de barras\obj\Debug\net7.0\Código de barras.AssemblyInfo.cs
+C:\Users\51915337801\Desktop\Código de barras\obj\Debug\net7.0\Código de barras.csproj.CoreCompileInputs.cache
+C:\Users\51915337801\Desktop\Código de barras\obj\Debug\net7.0\Código de barras.dll
+C:\Users\51915337801\Desktop\Código de barras\obj\Debug\net7.0\refint\Código de barras.dll
+C:\Users\51915337801\Desktop\Código de barras\obj\Debug\net7.0\Código de barras.pdb
+C:\Users\51915337801\Desktop\Código de barras\obj\Debug\net7.0\Código de barras.genruntimeconfig.cache
+C:\Users\51915337801\Desktop\Código de barras\obj\Debug\net7.0\ref\Código de barras.dll

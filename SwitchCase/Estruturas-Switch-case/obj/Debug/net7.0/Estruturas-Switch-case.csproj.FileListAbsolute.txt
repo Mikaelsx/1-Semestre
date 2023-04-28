@@ -1,0 +1,15 @@
+C:\Users\51915337801\Desktop\Estruturas-Switch-case\bin\Debug\net7.0\Estruturas-Switch-case.exe
+C:\Users\51915337801\Desktop\Estruturas-Switch-case\bin\Debug\net7.0\Estruturas-Switch-case.deps.json
+C:\Users\51915337801\Desktop\Estruturas-Switch-case\bin\Debug\net7.0\Estruturas-Switch-case.runtimeconfig.json
+C:\Users\51915337801\Desktop\Estruturas-Switch-case\bin\Debug\net7.0\Estruturas-Switch-case.dll
+C:\Users\51915337801\Desktop\Estruturas-Switch-case\bin\Debug\net7.0\Estruturas-Switch-case.pdb
+C:\Users\51915337801\Desktop\Estruturas-Switch-case\obj\Debug\net7.0\Estruturas-Switch-case.csproj.AssemblyReference.cache
+C:\Users\51915337801\Desktop\Estruturas-Switch-case\obj\Debug\net7.0\Estruturas-Switch-case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51915337801\Desktop\Estruturas-Switch-case\obj\Debug\net7.0\Estruturas-Switch-case.AssemblyInfoInputs.cache
+C:\Users\51915337801\Desktop\Estruturas-Switch-case\obj\Debug\net7.0\Estruturas-Switch-case.AssemblyInfo.cs
+C:\Users\51915337801\Desktop\Estruturas-Switch-case\obj\Debug\net7.0\Estruturas-Switch-case.csproj.CoreCompileInputs.cache
+C:\Users\51915337801\Desktop\Estruturas-Switch-case\obj\Debug\net7.0\Estruturas-Switch-case.dll
+C:\Users\51915337801\Desktop\Estruturas-Switch-case\obj\Debug\net7.0\refint\Estruturas-Switch-case.dll
+C:\Users\51915337801\Desktop\Estruturas-Switch-case\obj\Debug\net7.0\Estruturas-Switch-case.pdb
+C:\Users\51915337801\Desktop\Estruturas-Switch-case\obj\Debug\net7.0\Estruturas-Switch-case.genruntimeconfig.cache
+C:\Users\51915337801\Desktop\Estruturas-Switch-case\obj\Debug\net7.0\ref\Estruturas-Switch-case.dll

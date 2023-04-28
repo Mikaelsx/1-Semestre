@@ -1,0 +1,35 @@
+algoritimo para trocar uma lâmpada
+
+1. Pegar uma escada
+2. Posicione a escada e suba nela
+3. Verificar a se realmente a lâmpada está queimada
+4. Se a lâmpada estiver queimada, então
+5. Desce a escada e desligue a energia 
+6. Suba a escada e remova a lampada queimada
+7. Desco a escada e descarto a lampada
+8. Comprar uma lampada nova
+9. Subira a escada e instalar a lâmpada nova
+10. Descer a escada e
+11. Ligar a energia
+12. Verificar se está ok
+13. se estiver ok guardar a escada.
+
+algoritimo para semáforo
+
+
+1. Qual a cor do semáforo
+2. Armazenar a informação
+3. Se a cor informada for vermelho
+- frear e parar
+4. Se a cor informada for amarelo
+- reduzir a velocidade
+5. Então será verde, pode seguir.
+
+algoritmo de um aluno
+
+1. Nota primeiro bimestre: 
+2. Nota segundo bimestre:
+3. Nota terceiro bimestre:
+4. Fazer a somatória das três notas 
+5. Dividir pela quantidade de bimestres 
+6. Obtenha o resultado.
