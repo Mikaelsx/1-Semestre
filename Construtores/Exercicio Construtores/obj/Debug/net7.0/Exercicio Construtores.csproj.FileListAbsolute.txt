@@ -1,0 +1,15 @@
+C:\Users\51915337801\Desktop\Exercicio Construtores\obj\Debug\net7.0\Exercicio Construtores.csproj.AssemblyReference.cache
+C:\Users\51915337801\Desktop\Exercicio Construtores\obj\Debug\net7.0\Exercicio Construtores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51915337801\Desktop\Exercicio Construtores\obj\Debug\net7.0\Exercicio Construtores.AssemblyInfoInputs.cache
+C:\Users\51915337801\Desktop\Exercicio Construtores\obj\Debug\net7.0\Exercicio Construtores.AssemblyInfo.cs
+C:\Users\51915337801\Desktop\Exercicio Construtores\obj\Debug\net7.0\Exercicio Construtores.csproj.CoreCompileInputs.cache
+C:\Users\51915337801\Desktop\Exercicio Construtores\bin\Debug\net7.0\Exercicio Construtores.exe
+C:\Users\51915337801\Desktop\Exercicio Construtores\bin\Debug\net7.0\Exercicio Construtores.deps.json
+C:\Users\51915337801\Desktop\Exercicio Construtores\bin\Debug\net7.0\Exercicio Construtores.runtimeconfig.json
+C:\Users\51915337801\Desktop\Exercicio Construtores\bin\Debug\net7.0\Exercicio Construtores.dll
+C:\Users\51915337801\Desktop\Exercicio Construtores\bin\Debug\net7.0\Exercicio Construtores.pdb
+C:\Users\51915337801\Desktop\Exercicio Construtores\obj\Debug\net7.0\Exercicio Construtores.dll
+C:\Users\51915337801\Desktop\Exercicio Construtores\obj\Debug\net7.0\refint\Exercicio Construtores.dll
+C:\Users\51915337801\Desktop\Exercicio Construtores\obj\Debug\net7.0\Exercicio Construtores.pdb
+C:\Users\51915337801\Desktop\Exercicio Construtores\obj\Debug\net7.0\Exercicio Construtores.genruntimeconfig.cache
+C:\Users\51915337801\Desktop\Exercicio Construtores\obj\Debug\net7.0\ref\Exercicio Construtores.dll

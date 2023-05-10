@@ -1,0 +1,15 @@
+C:\Users\51915337801\Desktop\CarroConstrutor\bin\Debug\net7.0\CarroConstrutor.exe
+C:\Users\51915337801\Desktop\CarroConstrutor\bin\Debug\net7.0\CarroConstrutor.deps.json
+C:\Users\51915337801\Desktop\CarroConstrutor\bin\Debug\net7.0\CarroConstrutor.runtimeconfig.json
+C:\Users\51915337801\Desktop\CarroConstrutor\bin\Debug\net7.0\CarroConstrutor.dll
+C:\Users\51915337801\Desktop\CarroConstrutor\bin\Debug\net7.0\CarroConstrutor.pdb
+C:\Users\51915337801\Desktop\CarroConstrutor\obj\Debug\net7.0\CarroConstrutor.csproj.AssemblyReference.cache
+C:\Users\51915337801\Desktop\CarroConstrutor\obj\Debug\net7.0\CarroConstrutor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51915337801\Desktop\CarroConstrutor\obj\Debug\net7.0\CarroConstrutor.AssemblyInfoInputs.cache
+C:\Users\51915337801\Desktop\CarroConstrutor\obj\Debug\net7.0\CarroConstrutor.AssemblyInfo.cs
+C:\Users\51915337801\Desktop\CarroConstrutor\obj\Debug\net7.0\CarroConstrutor.csproj.CoreCompileInputs.cache
+C:\Users\51915337801\Desktop\CarroConstrutor\obj\Debug\net7.0\CarroConstrutor.dll
+C:\Users\51915337801\Desktop\CarroConstrutor\obj\Debug\net7.0\refint\CarroConstrutor.dll
+C:\Users\51915337801\Desktop\CarroConstrutor\obj\Debug\net7.0\CarroConstrutor.pdb
+C:\Users\51915337801\Desktop\CarroConstrutor\obj\Debug\net7.0\CarroConstrutor.genruntimeconfig.cache
+C:\Users\51915337801\Desktop\CarroConstrutor\obj\Debug\net7.0\ref\CarroConstrutor.dll
