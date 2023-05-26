@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\51915337801\\Desktop\\1-Semestre\\Construtores\\CarroConstrutor\\CarroConstrutor.csproj",
-      "projectName": "CarroConstrutor",
-      "projectPath": "C:\\Users\\51915337801\\Desktop\\1-Semestre\\Construtores\\CarroConstrutor\\CarroConstrutor.csproj",
+      "projectUniqueName": "C:\\Users\\51915337801\\Desktop\\ProdutoInterface\\ProdutoInterface.csproj",
+      "projectName": "ProdutoInterface",
+      "projectPath": "C:\\Users\\51915337801\\Desktop\\ProdutoInterface\\ProdutoInterface.csproj",
       "packagesPath": "C:\\Users\\51915337801\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\51915337801\\Desktop\\1-Semestre\\Construtores\\CarroConstrutor\\obj\\",
+      "outputPath": "C:\\Users\\51915337801\\Desktop\\ProdutoInterface\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\51915337801\\AppData\\Roaming\\NuGet\\NuGet.Config",

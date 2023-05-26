@@ -41,8 +41,8 @@ foreach (var item in carros)
 {
 Console.ForegroundColor=ConsoleColor.Green;
 Console.WriteLine(@$"
-Marca :{item.Marca}
-Cor :{item.Cor}
-Placa :{item.Placa}");
+Marca: {item.Marca}
+Cor: {item.Cor}
+Placa: {item.Placa}");
 Console.ResetColor();
 }

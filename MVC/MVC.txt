@@ -1,0 +1,10 @@
+Padrão MVC 
+
+Segundo a pesquisa  o  MVC ou ( Model View Controler ) é um padrão de projeto bem utilizado por empresas pela sua usabilidade ( facilidade de uso ) E versatilidade ( Vários usos e aproveitamentos ), 
+pois o MVC permite a divisão do projeto em três esferas.
+
+Model ( modelo ) - Lugar onde está ás informações de funcionamento do Backend  ás regras de negócio e o acesso ao Banco de Dados;
+
+View ( vizão/vizualização ) - É a camada responsável pelo Frontend de forma geral, Simplificando é a camada responsável pela exibição das informações na tela do usuário;
+
+Controller ( controle ) - Basicamente essa camada é responsável pela intermediação entre a Model e a View;
