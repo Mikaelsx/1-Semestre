@@ -1,0 +1,5 @@
+para clonar um único repositório
+
+git clone -n
+
+git checkout HEAD -----/-----
