@@ -1,0 +1,7 @@
+Ídeias de publicação
+
+30/05 - Hoje começamos a desenvolver o Back-End do projeto Gamer, Hoje aprendemos sobre Tabelas e estamos aprendendo a utilizar Razor para a criação integrada de HTML, CSS e C SHARP na escola
+
+31/05 - Hoje continuamos desenvolvendo o processo de Listar, E começãmos a fazer o processo de Cadastro de Equipes e Upload de imagens para o Projeto Gamer( Back-End ), na 
+
+13/06 - Hoje Terminamos o Back-End e iniciamos o processo de  junção do Front e do Back-End na

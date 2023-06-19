@@ -1,0 +1,33 @@
+ASP.NET Core MVC
+
+Razor é uma linguagem de marcação útilizada para incorporar o código.
+
+@ - propriedade razor
+
+Razor oferece suporte a C# e usa o @símbolo para fazer a transição de HTML para C#.
+
+Para escapar de um @símbolo na marcação Razor, use um segundo @símbolo:
+
+<p>@@Username</p>
+
+MVC
+ 
+dotnet new mvc : criar uma pasta mvc no proprio local 
+
+dotnet new mvc -o" "  : para criar a pasta em um local especifico
+
+dotnet dev-certs https --trust : certificado https
+
+Para adicionar imagem
+
+file - o tipo do arquivo 
+
+verificação de arquivo imagem. Caso exista arquivo imagem 
+
+fazer a verificação da pasta images 
+
+fazer a verificação 
+
+
+
+
